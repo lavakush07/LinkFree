@@ -1,45 +1,45 @@
-## [0.59.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.59.0...v0.59.1) (2022-01-12)
+## [1.24.10](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.9...v1.24.10) (2022-12-22)
 
 
 ### Bug Fixes
 
-* Replace custom CSS with prime-react classes for Home/Users.js ([#944](https://github.com/EddieHubCommunity/LinkFree/issues/944)) ([f304d7e](https://github.com/EddieHubCommunity/LinkFree/commit/f304d7ee21e0c485bdd6a0181bcd3062ebd726fd))
+* data file in wrong location ([2063878](https://github.com/EddieHubCommunity/LinkFree/commit/2063878dd88d22d23476b81f4241dd9d092c4e2d))
 
 
 
-# [0.59.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.3...v0.59.0) (2022-01-10)
-
-
-### Features
-
-* filter by profile type ([#937](https://github.com/EddieHubCommunity/LinkFree/issues/937)) ([3db2c35](https://github.com/EddieHubCommunity/LinkFree/commit/3db2c357c0036bb23da1c59f28bf3a5e043254af))
-
-
-
-## [0.58.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.2...v0.58.3) (2022-01-08)
+## [1.24.9](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.8...v1.24.9) (2022-12-19)
 
 
 ### Bug Fixes
 
-* improve  `avatar` section of README.md ([#930](https://github.com/EddieHubCommunity/LinkFree/issues/930)) ([e412074](https://github.com/EddieHubCommunity/LinkFree/commit/e4120748e6d1dc42201e48885fd62494ade9931e))
+* text contrast ratio on UserLink ([#2424](https://github.com/EddieHubCommunity/LinkFree/issues/2424)) ([e0b4cc5](https://github.com/EddieHubCommunity/LinkFree/commit/e0b4cc59777d2d98d72d93cf164141458ec76176))
 
 
 
-## [0.58.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.1...v0.58.2) (2022-01-08)
-
-
-### Bug Fixes
-
-* improved the docs ([4d96088](https://github.com/EddieHubCommunity/LinkFree/commit/4d9608893c4bbfcd804b692c7df5caa6a671d4d9))
-
-
-
-## [0.58.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.0...v0.58.1) (2022-01-07)
+## [1.24.8](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.7...v1.24.8) (2022-12-16)
 
 
 ### Bug Fixes
 
-* improve documentation ([#920](https://github.com/EddieHubCommunity/LinkFree/issues/920)) ([48a4f61](https://github.com/EddieHubCommunity/LinkFree/commit/48a4f6162123f890d10b296559cb52511663f64f))
+* gh action secret ([a93ed77](https://github.com/EddieHubCommunity/LinkFree/commit/a93ed77a1d9524d4c3f11d5e67703d3da5a13c99))
+
+
+
+## [1.24.7](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.6...v1.24.7) (2022-12-16)
+
+
+### Bug Fixes
+
+* prettier event trigger ([106f27f](https://github.com/EddieHubCommunity/LinkFree/commit/106f27f89f742d1718bba3818b92149c87336b34))
+
+
+
+## [1.24.6](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.5...v1.24.6) (2022-12-16)
+
+
+### Bug Fixes
+
+* gh action for json validate ([d041f87](https://github.com/EddieHubCommunity/LinkFree/commit/d041f87ecdf9a151008238e447b08aa87d94412f))
 
 
 
